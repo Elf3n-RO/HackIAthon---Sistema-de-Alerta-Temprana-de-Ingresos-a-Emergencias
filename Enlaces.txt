@@ -10,3 +10,8 @@ https://discord.gg/dPrp9UHE
 
 https://railway.com/invite/dr0c7vNjomI
 (produccion para el agente n8n)
+
+----------------------------------
+
+https://primary-production-089e.up.railway.app/workflow/n03tXqRyXsRm9iTi
+(workflow)
