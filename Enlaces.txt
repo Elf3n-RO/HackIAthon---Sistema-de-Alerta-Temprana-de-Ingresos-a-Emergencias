@@ -1,12 +1,12 @@
-httpsprimary-production-089e.up.railway.appworkflown03tXqRyXsRm9iTi
+https://primary-production-089e.up.railway.app/workflow/n03tXqRyXsRm9iTi
 (Envlace del agente)
 
 ----------------------------------
 
-httpsdiscord.ggdPrp9UHE
+https://discord.gg/dPrp9UHE
 (ahi se envian los msj del sistema)
 
 ----------------------------------
 
-httpsrailway.cominvitedr0c7vNjomI
+https://railway.com/invite/dr0c7vNjomI
 (produccion para el agente n8n)
